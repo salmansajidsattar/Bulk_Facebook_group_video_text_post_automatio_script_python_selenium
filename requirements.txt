@@ -1,0 +1,5 @@
+selenium
+python-dotenv
+pynput
+webdriver_manager
+pyautogui
